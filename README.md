@@ -12,6 +12,7 @@
 
 ## Data Science
 - [CTA Trains Data](http://datascope-challenge.villanuv.com/)
+- [Chicago Bulls](http://chicago-bulls.villanuv.com/)
 
 ## Angular/Ionic
 - [iTunes HTML](https://github.com/villanuv/itunes-html)
