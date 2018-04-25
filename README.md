@@ -10,6 +10,9 @@
 - [NBA Draft History](https://github.com/villanuv/nba-draft-history) (also Data Science)
 - [Kanban App](https://github.com/villanuv/react-kanban-app-example)
 
+## Solidity
+- [Coursetro Exercise](https://github.com/villanuv/ethereum-smart-contracts)
+
 ## Data Science
 - [CTA Trains Data](http://datascope-challenge.villanuv.com/)
 - [Chicago Bulls](http://chicago-bulls.villanuv.com/)
