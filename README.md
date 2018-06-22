@@ -18,7 +18,7 @@
 - [Chicago Bulls](http://chicago-bulls.villanuv.com/)
 
 ## Angular/Ionic
-- [iTunes HTML](https://github.com/villanuv/itunes-html)
+- [Not iTunes](https://github.com/villanuv/itunes-html)
 - [Giphy App](https://github.com/villanuv/giphy-app)
 
 ## Node.js
