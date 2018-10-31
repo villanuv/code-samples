@@ -5,6 +5,7 @@
 
 ## Ruby
 - [Vending Machine Kata](https://github.com/villanuv/pillar_kata)
+- [Payments Exercise](https://github.com/villanuv/payments-exercise)
 
 ## React
 - [NBA Draft History](https://github.com/villanuv/nba-draft-history) (also Data Science)
