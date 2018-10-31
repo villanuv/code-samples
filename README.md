@@ -11,6 +11,7 @@
 - [Kanban App](https://github.com/villanuv/react-kanban-app-example)
 
 ## Solidity
+- [Ethereum Pet Shop](https://github.com/villanuv/ethereum-pet-shop)
 - [Coursetro Exercise](https://github.com/villanuv/ethereum-smart-contracts)
 
 ## Data Science
